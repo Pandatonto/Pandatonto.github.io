@@ -1,0 +1,46 @@
+body{
+	background-color:lightgreen;
+	margin:0 auto;
+}
+#titulo{
+	text-align:center;
+	font-family:"Century Gothic",Verdana,sans-serif;
+	font-size: 80px;
+	text-shadow: 2px 2px gray;
+}
+.juego{
+	text-align:center;
+}
+p{
+	font-size: 20px;
+	font-family:Apple Chancery, cursive;
+}
+h1{
+	font-size: 35px;
+	text-shadow: 2px 2px gray;
+	text-decoration: underline;
+}
+a{
+	font-size:20px;
+	display:flex;
+	justify-content:center;
+	
+}
+.video{
+	border:0;
+}
+.navegacion{
+	color:black;
+	text-decoration:none;
+	font-size:40px;
+	display:flex;
+	flex-direction: row;
+	justify-content:space-around;
+}
+
+.navegacion a{
+	color:black;
+	text-decoration:none;
+	font-size:40px;
+	
+}
